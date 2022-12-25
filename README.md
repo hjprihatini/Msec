@@ -14,4 +14,5 @@ gem install lolcat
 # Running
 
 cd Msec
+
 python2 msec.py
